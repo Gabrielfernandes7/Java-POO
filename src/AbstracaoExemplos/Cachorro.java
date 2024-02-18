@@ -1,4 +1,4 @@
-package docs.abstracao.exemplos;
+package src.AbstracaoExemplos;
 
 public class Cachorro extends Animal {
     @Override
