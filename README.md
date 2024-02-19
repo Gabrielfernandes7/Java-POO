@@ -4,7 +4,7 @@ Este repositório contém meus estudos pessoais de Java com ênfase em POO, incl
 
 ## Tópicos
 
-1. [Abstração](docs/abstracao.md)
+1. [Abstração](docs/abstracao/abstracao.md)
 2. [Encapsulamento](docs/encapsulamento.md)
 3. [Herança](docs/heranca.md)
 4. [Polimorfismo](docs/polimorfismo.md)
