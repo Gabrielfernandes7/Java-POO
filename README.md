@@ -9,7 +9,7 @@ Este repositório contém meus estudos pessoais de Java com ênfase em POO, incl
 3. [Herança](docs/heranca.md)
 4. [Polimorfismo](docs/polimorfismo.md)
 5. [Construtor](/docs/construtor.md)
-6. [Interfaces](/docs/interfaces.md)
+6. [Interfaces](/docs/interfaces/interfaces.md)
 
 ## Estrutura das Pastas
 

@@ -1,5 +1,3 @@
-package src.AbstracaoExemplos;
-
 public class Aplicacao {
     public static void main(String[] args) {
         Animal animal1 = new Cachorro();

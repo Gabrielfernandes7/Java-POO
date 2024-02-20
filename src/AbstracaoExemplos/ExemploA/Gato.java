@@ -1,5 +1,3 @@
-package src.AbstracaoExemplos;
-
 public class Gato extends Animal{
     @Override
     public void emitirSom() {
