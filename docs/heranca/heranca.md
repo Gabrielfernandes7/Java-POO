@@ -30,4 +30,4 @@ mas ainda queremos manter um determinado nível de encapsulamento.
 
 Restringe o acesso a outras classes fora da hierarquia.
 
-- Observação: quanto maior o uso de herança maior o nível de acoplamento entre as classes. Por exemplo, vamos imaginar que queremos modificar um atributo na classe-pai, mas essa mudança afetaria todas as classes filhas, logo, se não for do nosso interesse essa mudança em todas as classes, significa que temos um problema. Esse problema podemos resolver com a ajuda das [interfaces](/docs/interfaces.md).
+- Observação: quanto maior o uso de herança maior o nível de acoplamento entre as classes. Por exemplo, vamos imaginar que queremos modificar um atributo na classe-pai, mas essa mudança afetaria todas as classes filhas, logo, se não for do nosso interesse essa mudança em todas as classes, significa que temos um problema. Esse problema podemos resolver com a ajuda das [interfaces](/docs/interfaces/interfaces.md).
