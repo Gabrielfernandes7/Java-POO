@@ -5,10 +5,10 @@ Este repositório contém meus estudos pessoais de Java com ênfase em POO, incl
 ## Tópicos
 
 1. [Abstração](docs/abstracao/abstracao.md)
-2. [Encapsulamento](docs/encapsulamento.md)
-3. [Herança](docs/heranca.md)
-4. [Polimorfismo](docs/polimorfismo.md)
-5. [Construtor](/docs/construtor.md)
+2. [Encapsulamento](docs/encapsulamento/encapsulamento.md)
+3. [Herança](docs/heranca/heranca.md)
+4. [Polimorfismo](docs/polimorfismo/polimorfismo.md)
+5. [Construtor](/docs/construtor/construtor.md)
 6. [Interfaces](/docs/interfaces/interfaces.md)
 
 ## Estrutura das Pastas
